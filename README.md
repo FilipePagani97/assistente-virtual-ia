@@ -130,23 +130,4 @@ Perguntas que ajudam:
 
 “Como posso mostrar isso em 1 minuto?”
 
-🚀 Próximo passo
-Agora você só precisa me dizer:
 
-Qual é o tema do seu assistente?
-
-Com isso, eu consigo te ajudar a montar:
-
-a documentação inicial
-
-a estrutura da base de conhecimento
-
-o estilo do agente
-
-ideias de prompts
-
-sugestões de testes
-
-um pitch convincente
-
-Sem entregar nada pronto — só te guiando para você construir sua própria solução.
